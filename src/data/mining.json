@@ -2,7 +2,7 @@
   "tambang": {
     "coal": {
       "require": {},
-      "price": 7
+      "price": 10
     },
     "copper_ingot": {
       "require": {
@@ -63,7 +63,7 @@
       "require": {
         "uncut_emerald": 1
       },
-      "price": 78
+      "price": 104
     }
   },
   "perhiasan": {
@@ -145,7 +145,7 @@
         "gold_earring": 1,
         "diamond": 2
       },
-      "price": 248
+      "price": 186
     },
     "ruby_earring": {
       "require": {
